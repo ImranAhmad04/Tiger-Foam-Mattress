@@ -1,0 +1,6 @@
+{
+  "name": "Tiger Foam & Mattress - Industrial Foam & Orthopaedic Mattresses",
+  "description": "Official corporate website and digital visiting card for Tiger Foam & Mattress. Manufacturer of high-density industrial foam and premium orthopaedic mattresses with direct WhatsApp inquiry.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
